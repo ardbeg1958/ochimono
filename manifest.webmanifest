@@ -1,0 +1,2 @@
+{"name":"つみきドロップ","short_name":"つみきドロップ","description":"ぴよまるといっしょにブロックをそろえて消そう。8BitDo Lite 2 などのコントローラーであそべる落ちものパズル。","start_url":"./","scope":"./","display":"fullscreen","orientation":"any","background_color":"#c4efff","theme_color":"#5ec8f2","lang":"ja",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},{"src":"icon-180.png","sizes":"180x180","type":"image/png"}]}
